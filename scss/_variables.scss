@@ -251,9 +251,9 @@ $btn-padding-x-lg:               1.25rem !default;
 $btn-padding-y-lg:               .75rem !default;
 
 // Allows for customizing button radius independently from global border radius
-$btn-border-radius:              $border-radius !default;
-$btn-border-radius-lg:           $border-radius-lg !default;
-$btn-border-radius-sm:           $border-radius-sm !default;
+$btn-border-radius:              0;
+$btn-border-radius-lg:           0;
+$btn-border-radius-sm:           0;
 
 
 // Forms
